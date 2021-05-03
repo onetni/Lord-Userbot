@@ -1,5 +1,4 @@
-<a href="https://cooltext.com"><img src="https://images.cooltext.com/5501763.gif" width="473" height="82" alt="YBG" /></a>
-
+<a href="https://cooltext.com"><img src="https://images.cooltext.com/5525816.png" width="509" height="86" alt="ONET USERBOT" /></a>
 
 <p align="center">
   <a href="https://github.com/Zora24/Lord-Userbot/fork">
@@ -11,13 +10,13 @@
   </a>
 </p>  
 
-# Lord Userbot
+# 0net Userbot
 ![Lord Userbot Logo](https://telegra.ph/file/62dc59b2013a48f9cc8f3.jpg)
 
-<h3 align="center">Userbot Yang Digunakan Untuk Bersenang-Senang Di Telegram</h3>
+<h3 align="center">REPO ONET USERBOT? YA INI TOT</h3>
 <p align="center">&nbsp;</p>
 
-### Repo Lord Userbot
+### Repo Onet Userbot
 Repo Yang Dibuat [Onet](https://t.me/inionettttt) Dari Berbagai Repo Userbot Github 
 
 
