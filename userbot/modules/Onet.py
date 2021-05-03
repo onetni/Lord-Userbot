@@ -434,6 +434,22 @@ async def typewriter(typew):
     await typew.edit("`Tapi Bo'ong`")
 # Create by myself @localheart
 
+
+@register(outgoing=True, pattern='^.gombal(?: |$)(.*)')
+async def typewriter(typew):
+    typew.pattern_match.group(1)
+    sleep(1)
+    await typew.edit("`ʜᴀɪ, ᴀᴋᴜ ᴏɴᴇᴛ`")
+    sleep(1)
+    await typew.edit("`ᴋᴀᴛᴀ ᴍᴀᴍᴀʜ ᴀᴋᴜ ɢᴀɴᴛᴇɴɢ`")
+    sleep(1)
+    await typew.edit("`ᴋᴀᴛᴀ ᴋᴀʟɪᴀɴ ᴀᴋᴜ ɢᴀɴᴛᴇɴɢ ɢᴀᴋ?`")
+    sleep(1)
+    await typew.edit("`ᴘᴀsᴛɪ ɢᴀɴᴛᴇɴɢ ᴅᴏɴɢ`")
+    sleep(1)
+    await typew.edit("`ᴊᴀɴɢᴀɴ ʟᴜᴘᴀ ꜰᴏʟʟᴏᴡ ɪɴsᴛᴀɢʀᴀᴍ ᴏɴᴇᴛ ʏᴀ @ᴍᴍᴀᴜʟᴀɴᴀ_ᴀʟꜰʀᴢ, ᴛɪᴍᴀᴀᴄɪ ᴋᴀᴡᴀɴᴅ.`")
+# Create by myself @localheart
+
 CMD_HELP.update({
     "gabut":
     "`.gabut` ; `.dino`\
